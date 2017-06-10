@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>李文慧</title>
-  <subtitle>find the problem where is and solve it.</subtitle>
+  <subtitle>find where the problem is and solve it.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
